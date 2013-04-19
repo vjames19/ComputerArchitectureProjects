@@ -25,6 +25,6 @@ For the complete report and specifications: [Simulator Report](https://github.co
 
 
 # Contributors
-* Victor J. Reventos Rosario
+* Victor J. Reventos
 * Johanna Rivera
 * Samuel Matos
